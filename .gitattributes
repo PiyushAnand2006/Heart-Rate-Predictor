@@ -1,0 +1,2 @@
+# Mark model binaries so linguist doesn't try to parse them
+*.pkl binary

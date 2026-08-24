@@ -1,0 +1,15 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Model artifacts are tracked intentionally, but keep large binaries out if added later
+*.joblib
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
